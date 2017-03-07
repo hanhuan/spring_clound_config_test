@@ -8,3 +8,5 @@ eureka:
   instance:
     lease-renewal-interval-in-seconds: 10
   environment: productkkkkkk
+
+hanhuan: kkkkkk
