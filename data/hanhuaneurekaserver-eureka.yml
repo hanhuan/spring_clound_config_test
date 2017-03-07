@@ -1,0 +1,10 @@
+server:
+  port: 8768
+eureka:
+  client:
+    register-with-eureka: false
+    service-url:
+       defaultZone: http://localhost:8768/eureka/
+  instance:
+    lease-renewal-interval-in-seconds: 10
+  environment: productkkkkkk
